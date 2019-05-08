@@ -4,4 +4,4 @@ Name | Description | Download
 --- | --- | ---
 Dark TimerTab | A simple TimerTab dark mode | [![DTT](https://img.shields.io/badge/Download-usercss-red.svg)][dtt]
 
-[dtt]: https://github.com/cheukyin699/stylus-styles/build/dtt.user.css
+[dtt]: https://raw.githubusercontent.com/cheukyin699/stylus-styles/master/build/dtt.user.css
